@@ -1,7 +1,7 @@
 <h1 style='font-size: 30px'> 🐍 Python Django Rest Framework - API Escola </h1>
     Nesse projeto/treinamentos foi criado uma API de uma escola, visualizar dados dos alunos, matriculas, em Python Django e vinculando admin Django com API.
 <p></p>
-<h1 style='font-size: 20px;'>🚀 Começando </h1>
+<h1 style='font-size: 20px;'>🚀 Exercicio em Python - Back </h1>
     Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
 <p></p>
     Consulte Implantação para saber como implantar o projeto.
